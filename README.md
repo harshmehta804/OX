@@ -1,1 +1,3 @@
-# OX
+---
+permalink: /homepage/index.html
+---
